@@ -1,0 +1,19 @@
+{
+  "name": "fed-e-task-01-01",
+  "version": "1.0.0",
+  "description": "阶段一模块一作业",
+  "main": "support.js",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/xiaopangduner123/fed-e-task-01-01.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
